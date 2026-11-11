@@ -2,6 +2,7 @@ name: CI and publish to crates.io
 
 on:
   push:
+    branches: [main]
   pull_request:
   release:
     types: [published]
