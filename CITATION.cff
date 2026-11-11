@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+type: software
+title: "Rust trait for the CSDMS Basic Model Interface"
+authors:
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Verhoeven
+    given-names: Stefan
+    orcid: "https://orcid.org/0000-0002-5821-2060"
+  -
+    affiliation: "Netherlands eScience Center"
+    family-names: Schilperoort
+    given-names: Bart
+    orcid: "https://orcid.org/0000-0003-4487-9822"
+license: Apache-2.0
+repository-code: "https://github.com/eWaterCycle/bmi-rust"
+url: "https://crates.io/crates/bmi-rust"
+identifiers:
+  - description: Latest version of software
+    type: doi
+    value: "10.5281/zenodo.111111"
+doi: "10.5281/zenodo.111111"
