@@ -23,4 +23,4 @@ This repo has been configured for trusted publishing.
 To release a version, update `version` in `Cargo.toml`.
 Update the dependency example in `README.md` when appropriate, and commit the
 changes. [Publish a GitHub release](https://github.com/eWaterCycle/bmi-rust/releases/new)
-with a matching tag, such as `v0.1.0` for version `0.1.0`.
+with a matching tag, such as `v0.1.1` for version `0.1.1`.

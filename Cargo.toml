@@ -1,9 +1,13 @@
 [package]
 name = "bmi-rust"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "Rust trait for the CSDMS Basic Model Interface"
 license = "Apache-2.0"
 readme = "README.md"
+documentation = "https://docs.rs/bmi-rust"
+repository = "https://github.com/eWaterCycle/bmi-rust"
+keywords = ["bmi", "csdms", "hydrology", "simulation", "model-coupling"]
+categories = ["science", "simulation"]
 
 [dependencies]
