@@ -19,5 +19,5 @@ url: "https://crates.io/crates/bmi-rust"
 identifiers:
   - description: Latest version of software
     type: doi
-    value: "10.5281/zenodo.111111"
-doi: "10.5281/zenodo.111111"
+    value: "10.5281/zenodo.24137036"
+doi: "10.5281/zenodo.24137036"
