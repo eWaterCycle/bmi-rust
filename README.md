@@ -1,5 +1,8 @@
 # bmi-rust
 
+[![crates.io](https://img.shields.io/crates/v/bmi-rust.svg)](https://crates.io/crates/bmi-rust)
+[![docs.rs](https://docs.rs/bmi-rust/badge.svg)](https://docs.rs/bmi-rust)
+[![GitHub Actions](https://github.com/eWaterCycle/bmi-rust/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/eWaterCycle/bmi-rust/actions/workflows/publish.yml)
 [![AI Declaration Format](https://img.shields.io/badge/AI_Declaration_Format-validated-blue)](./aidecl.yaml)
 
 The Rust specification for the CSDMS
